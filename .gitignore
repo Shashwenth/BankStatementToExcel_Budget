@@ -3,3 +3,4 @@ google-json-cred.json
 RobinhoodSpreadSheetIDStore.txt
 /venv/
 .env
+/__pycache__/
